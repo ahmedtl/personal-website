@@ -89,7 +89,7 @@ const Navbar = ({ isDarkMode, setIsDarkMode }) => {
             </div>
           </button>
           <a
-            href="https://eu.umami.is/websites/acea1353-b7ac-467a-bf61-ec6bdd05c288"
+            href="https://eu.umami.is/share/CeqcUC1b77rcZ57k/ahmedtlili.vercel.app"
             target="_blank"
           >
             <ChartColumn />
