@@ -154,7 +154,22 @@ export const infoList = [
 
 export const experiences = [
   {
-    position: "Graduation Internship",
+    position: "Softwrare Engineer",
+    company: "WinSoft Informatique",
+    time: "03/2025 - 09/2025",
+    address: "Ariana, Tunisia",
+    work: "Worked on developing key modules for WinSoft Garage Plus, including a tablet-based repair management system and a production tracking module that improved workshop efficiency and transparency. Also designed and launched the company’s website, enhancing its online presence.",
+    companyLink: "https://www.winsoftinformatique.tn/",
+    tools: [
+      assets.dotnet_logo,
+      assets.sqlserver,
+      assets.git,
+      assets.nextjs,
+      assets.Tailwind_CSS_Logo,
+    ],
+  },
+  {
+    position: "Softwrare Engineer Intern",
     company: "Sibtel",
     time: "02/2024 - 09/2024",
     address: "Tunis, Tunisia",
@@ -173,7 +188,7 @@ export const experiences = [
     ],
   },
   {
-    position: "Internship",
+    position: "Softwrare Engineer Intern",
     company: "Peak source technology",
     time: "06/2023 - 08/2023",
     address: "Tunis, Tunisia",
@@ -187,7 +202,7 @@ export const experiences = [
     ],
   },
   {
-    position: "Internship",
+    position: "Softwrare Engineer Intern",
     company: "Bee coders",
     time: "06/2022 - 08/2022",
     address: "Ariana, Tunisia",
