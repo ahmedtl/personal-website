@@ -154,7 +154,7 @@ export const infoList = [
 
 export const experiences = [
   {
-    position: "Softwrare Engineer",
+    position: "Software Engineer",
     company: "WinSoft Informatique",
     time: "03/2025 - 09/2025",
     address: "Ariana, Tunisia",
@@ -169,7 +169,7 @@ export const experiences = [
     ],
   },
   {
-    position: "Softwrare Engineer Intern",
+    position: "Software Engineer Intern",
     company: "Sibtel",
     time: "02/2024 - 09/2024",
     address: "Tunis, Tunisia",
@@ -188,7 +188,7 @@ export const experiences = [
     ],
   },
   {
-    position: "Softwrare Engineer Intern",
+    position: "Software Engineer Intern",
     company: "Peak source technology",
     time: "06/2023 - 08/2023",
     address: "Tunis, Tunisia",
@@ -202,7 +202,7 @@ export const experiences = [
     ],
   },
   {
-    position: "Softwrare Engineer Intern",
+    position: "Software Engineer Intern",
     company: "Bee coders",
     time: "06/2022 - 08/2022",
     address: "Ariana, Tunisia",
